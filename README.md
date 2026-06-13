@@ -24,7 +24,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
+git clone https://github.com/Stefy12342/genmail1
 
 ```
 
@@ -41,9 +41,9 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd mmail
+cd mmail3
 
-python mmail.py
+python mmail3.py
 
 ```
 
