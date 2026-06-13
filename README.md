@@ -41,7 +41,7 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd mmail3
+cd genmail1
 
 python mmail3.py
 
